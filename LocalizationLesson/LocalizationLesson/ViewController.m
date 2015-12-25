@@ -37,8 +37,7 @@
         @"descript":NSLocalizedString(@"testBook.bookDescript", nil),
         @"count":NSLocalizedString(@"testBook.bookCount", nil),
         @"rating":NSLocalizedString(@"testBook.bookRating", nil),
-        @"date":NSLocalizedString(@"testBook.bookDate", nil),
-                                    };
+        @"date":NSLocalizedString(@"testBook.bookDate", nil)};
     return dataForBook;
 }
 
@@ -47,7 +46,7 @@
     [_coverImage setImage:book.cover];
     [_authorLabel setText:book.authorName];
     [_countLabel setText:[NSString stringWithFormat:@"%@",book.count]];
-    NSString *dateString = [NSDateFormatter localizedStringFromDate:book.date                                                          dateStyle:kCFDateFormatterFullStyle
+    NSString *dateString = [NSDateFormatter localizedStringFromDate:book.date                                                          dateStyle:NSDateFormatterFullStyle
 timeStyle:NSDateFormatterNoStyle];
     [_dateLabel setText:dateString];
     [_ratingLabel setText:[NSString stringWithFormat:@"%@",book.rating]];
