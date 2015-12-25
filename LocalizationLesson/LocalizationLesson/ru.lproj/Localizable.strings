@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  LocalizationLesson
+
+  Created by Артур Сагидулин on 25.12.15.
+  Copyright © 2015 Артур Сагидулин. All rights reserved.
+*/
+
+"testBook.bookTitle" = "451 градус по Фаренгейту";
+"testBook.bookCover" = "fahrenheit.ru";
+"testBook.bookAuthor" = "Рэй Брэдбери";
+"testBook.bookDescript" = "Роман 451 градус по Фаренгейту рассказывает о тоталитарном обществе, в котором литература находится под запретом, а пожарные должны сжигать все запрещённые книги, которые обнаружат, причём — вместе с жилищами владельцев.";
+
+"testBook.bookCount" = "345678";
+"testBook.bookRating" = "1.0001";
+"testBook.bookDate" = "1954";

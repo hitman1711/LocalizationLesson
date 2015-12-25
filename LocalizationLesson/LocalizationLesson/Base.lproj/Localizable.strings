@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  LocalizationLesson
+
+  Created by Артур Сагидулин on 25.12.15.
+  Copyright © 2015 Артур Сагидулин. All rights reserved.
+*/
+
+"testBook.bookTitle" = "Fahrenheit 451";
+"testBook.bookCover" = "fahrenheit.en";
+"testBook.bookAuthor" = "Ray Bradbury";
+"testBook.bookDescript" = "Fahrenheit 451 is a dystopian novel by Ray Bradbury published in 1953. It is regarded as one of his best works. The novel presents a future American society where books are outlawed and firemen burn any that are found";
+
+"testBook.bookCount" = "1000000";
+"testBook.bookRating" = "813.54";
+"testBook.bookDate" = "1953";
